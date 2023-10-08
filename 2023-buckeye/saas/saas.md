@@ -43,7 +43,7 @@ $ docker cp 79e7890237fe:srv/app/chal downloaded_chal
 Successfully copied 7.46MB to /Users/jole/ctf/buckeye23/saas2/downloaded_chal
 ```
 
-![[binja.png]]
+![binja](binja.png)
 
 It uses `blx`. It's been a while so first i tried `pop {pc}`, which gave `signal 4 (Illegal instruction)`, but `bx lr` worked!
 
@@ -240,7 +240,7 @@ print(sc.hex())
 
 Naturally there is a `svc` right at the end. We remove that, and append our hack which calls `svc` by switching to thumb mode while jumping back to code we already ran.
 # Result
-![[flag.png]]
+!(flag)[flag.png]
 
 And somehow it worked!
 
