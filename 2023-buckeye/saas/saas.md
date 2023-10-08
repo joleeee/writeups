@@ -240,7 +240,7 @@ print(sc.hex())
 
 Naturally there is a `svc` right at the end. We remove that, and append our hack which calls `svc` by switching to thumb mode while jumping back to code we already ran.
 # Result
-!(flag)[flag.png]
+![flag](flag.png)
 
 And somehow it worked!
 
