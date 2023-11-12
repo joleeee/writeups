@@ -54,4 +54,9 @@ For some reason this only worked on my computer, so everyone just sent me their 
 
 The first time the second qr was also broken, so you can see Tweey beeing unable to get points while he's actually at the right spot.
 
-Then, once we all solved it, the flag was automatically awarded on the platform, and the instant the green text came up, I heard the music stopped. It took a little while however, because 
+Then, once we all solved it, the flag was automatically awarded on the platform,
+and the instant the green text came up, I heard the music stopped. It took a
+little while however, because initially we got a red JSON message, if i recall
+correctly.
+
+All in all it was a cool challenge, and I did not even have to leave the venue! 😛
