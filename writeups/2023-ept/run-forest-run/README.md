@@ -22,6 +22,7 @@ This second picture is a bit harder, but Tweey (Sondre) figured it it's around h
 
 ## QRs
 Sondre also then ran and took pictures of the QR codes
+
 ![](code1.jpg)
 ![](code2.jpg)
 
@@ -48,6 +49,7 @@ The site looked like this (only screenhot i found):
 You would know you managed it if your profile picture turned green. You can also see that each person would need to do it twice.
 
 For some reason this only worked on my computer, so everyone just sent me their session cookie and I did it for everyone. It turns out this is because I was on a mac, and there was some "anticheat" which blocked certain `navigator.platform` values, like `Win32`, but it did not check for `MacIntel` which is what all macs report.
+
 ![](navigator.platform.png)
 
 The first time the second qr was also broken, so you can see Tweey beeing unable to get points while he's actually at the right spot.
