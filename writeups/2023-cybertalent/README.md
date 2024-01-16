@@ -424,7 +424,7 @@ Bra jobba, du fikk skrevet ut hele ordet!
 ```
 
 ## 2.1.7 pushwagner
-See [solve_pwn](<attachments/dev and test/solve_pwn.py>)
+See [solve_pwn.py](<attachments/dev and test/solve_pwn.py>)
 
 ```
 $ scoreboard FLAG{e3692af055f4d2e735c74f9757e8ffce}
